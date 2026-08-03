@@ -13,7 +13,7 @@
     "@angular/animations": "^18.2.0",
     "@angular/cdk": "^22.1.0",
     "@angular/common": "^22.1.0",
-    "@angular/compiler": "^21.2.4",
+    "@angular/compiler": "^22.1.0",
     "@angular/core": "^18.2.0",
     "@angular/forms": "^22.1.0",
     "@angular/material": "^22.1.0",
@@ -28,7 +28,7 @@
   "devDependencies": {
     "@angular-devkit/build-angular": "^22.1.2",
     "@angular/cli": "^21.1.4",
-    "@angular/compiler-cli": "^21.0.2",
+    "@angular/compiler-cli": "^22.1.0",
     "@types/jasmine": "~5.1.0",
     "jasmine-core": "~5.2.0",
     "karma": "~6.4.0",
